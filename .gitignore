@@ -49,3 +49,5 @@ embedded.loc
 rufus_files
 depcomp
 stamp-h1
+config.bat
+node_modules
