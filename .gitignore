@@ -54,3 +54,5 @@ res/loc/pollock/bin
 res/loc/pollock/obj
 rufus_files
 stamp-h1
+config.bat
+node_modules
