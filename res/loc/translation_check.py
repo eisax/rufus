@@ -8,6 +8,8 @@
 # horrible code below
 # in multiline messages checks only first one if is the same as in English (should be enough for now)
 
+import utils.transport
+import utils.session
 import sys
 # regex
 import re
