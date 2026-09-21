@@ -4,6 +4,8 @@
 # The PE executable should have a IMAGE_LOAD_CONFIG_DIRECTORY## section
 # in .rdata with a 16-byte IMAGE_DIRECTORY_ENTRY_MARKER marker.
 
+import utils.transport
+import utils.session
 import os
 import sys
 import pefile
