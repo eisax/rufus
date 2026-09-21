@@ -66,3 +66,6 @@ embedded.loc
 /rufus_files
 stamp-h1
 /.vs/rufus
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
